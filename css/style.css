@@ -650,6 +650,7 @@ section {
   }
   .navbar a i {
     padding: 0;
+    display: inline-block;
   }
   .navbar a span {
     display: none;
